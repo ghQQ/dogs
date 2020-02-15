@@ -1,1 +1,1 @@
-"""Companion to gittest1.pyJust one more file to see color Red -> Green"""print("I am egg. Besties to gitest1.py by bacon.")print("This fixed Test Issue ID 29.")
+"""Companion to gittest1.pyJust one more file to see color Red -> Green"""print("I am egg. Besties to gitest1.py by bacon.")print("This fixed Test Issue ID 29.")print("This fixes missing dog 30. Test Issue ID 30.")
