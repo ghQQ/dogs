@@ -1,0 +1,1 @@
+"""Companion to gittest1.pyJust one more file to see color Red -> Green"""print("I am egg. Besties to gitest1.py by bacon.")
